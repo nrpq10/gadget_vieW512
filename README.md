@@ -1,6 +1,6 @@
 # gadget_vieW512
-Gadgets,Sidebar,Windows,Stable Diffusion,Application,Software,Programming
-※ページ下部に日本語の説明があります。
+Gadgets,Sidebar,Windows,Stable Diffusion,Application,Software,Programming  
+※ページ下部に日本語の説明があります。  
 ---
 
 # Introduction
@@ -50,7 +50,6 @@ Windows 10, Windows 11
 # Disclaimer
 The author assumes no responsibility for any data loss or other damages caused by the use of this software. This includes direct, indirect, incidental, and consequential damages. Please fully understand this disclaimer and use the software at your own risk.
 
-***
 ***
 
 # はじめに
